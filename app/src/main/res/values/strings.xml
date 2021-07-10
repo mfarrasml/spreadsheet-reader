@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabaseBiodata</string>
+    <string name="add_new_data_button">Add New</string>
+</resources>
